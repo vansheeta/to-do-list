@@ -31,5 +31,5 @@ A simple and clean To-Do List application built using **Flask**, **PostgreSQL**,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flask-todo-app.git
-cd flask-todo-app
+git clone https://github.com/vansheeta/to-do-list.git
+cd to-do-list
